@@ -40,9 +40,7 @@
     <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="40" height="40"/>
     <!-- SQLite -->
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-    <!-- REST API -->
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-    <!-- Java -->
+   <!-- Java -->
     <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/>
     <!-- C++ -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/>
@@ -52,6 +50,13 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="android-studio" width="40" height="40"/>
     <!-- Firebase Hosting -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/>
+     <!-- Supabase -->
+    <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="supabase" width="40" height="40"/>
+    <!-- Postman -->
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+    <!-- Figma -->
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+   
 </p>
 
 <!-- GitHub Stats -->
@@ -61,7 +66,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamedsaqr7&" alt="Mohamedsaqr7" />
 </p>
 
-<!-- Profile Views -->
-<p align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=Mohamedsaqr7&style=flat-square&color=blue)
-</p>
+
