@@ -15,7 +15,7 @@
 <!-- Connect With Me -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="'https://www.linkedin.com/in/mohamed-saqr-574943232'" target="blank">
+    <a href="https://www.linkedin.com/in/mohamed-saqr-574943232" target="blank">
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" />
     </a>
     <a href="https://www.facebook.com/profile.php?id=100012732062133&mibextid=ZbwKwL" target="blank">
