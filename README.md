@@ -28,9 +28,7 @@
 <p align="left">
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
     <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> 
-    <!-- Firebase -->
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-    <!-- Android -->
+   <!-- Android -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="android" width="40" height="40"/>
     <!-- iOS -->
     <img src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg" alt="apple" width="40" height="40"/>
@@ -67,3 +65,8 @@
 </p>
 
 
+<!-- Most Used Languages -->
+<h3 align="left">Most Used Languages:</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedsaqr7&layout=compact&langs_count=8&theme=default" alt="Most Used Languages" />
+</p>
